@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#Vivado
+./vivado
+viv*
